@@ -35,7 +35,7 @@
 }
   
   body{
-    background-image: url(/fondo.jpg);
+    background-image: url(fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
